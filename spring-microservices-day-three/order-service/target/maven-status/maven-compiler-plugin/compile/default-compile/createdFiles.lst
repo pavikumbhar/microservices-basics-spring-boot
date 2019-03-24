@@ -1,0 +1,3 @@
+com\pavikumbhar\microservices\orderservice\entity\OrderItem.class
+com\pavikumbhar\microservices\orderservice\OrderServiceApplication.class
+com\pavikumbhar\microservices\orderservice\entity\Order.class

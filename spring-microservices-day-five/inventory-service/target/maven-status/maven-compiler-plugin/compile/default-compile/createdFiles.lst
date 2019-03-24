@@ -1,0 +1,4 @@
+com\pavikumbhar\microservices\inventoryservice\model\Product.class
+com\pavikumbhar\microservices\inventoryservice\controller\InventoryController$1.class
+com\pavikumbhar\microservices\inventoryservice\controller\InventoryController.class
+com\pavikumbhar\microservices\inventoryservice\InventoryServiceApplication.class

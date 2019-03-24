@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: api-gateway
+Implementation-Version: 2.1.3.RELEASE
+Built-By: pavikumbhar
+Implementation-Vendor-Id: com.pavikumbhar.microservices
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/api-gateway
+Created-By: Maven Integration for Eclipse
+
